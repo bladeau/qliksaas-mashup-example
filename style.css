@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+}
+
+.buttonsbar {
+    padding-top: 50px;
+    width: 95%;
+    text-align: right;
+}
+
+div.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 45px 45px 0;
+}
+
+div.qvobject {
+    flex: 1 1 auto;
+    height: 300px;
+    min-width: 400px;
+    margin: 45px 0 0 45px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
