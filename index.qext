@@ -1,0 +1,12 @@
+{
+	"name" : "MashupTraining",
+	"description" : "MashupTraining example",
+	"type" : "mashup",
+	"version": "2.0.0",
+	"author": "Qlik",
+	"homepage" : "http://help.qlik.com/sense/en-US/developer",
+	"keywords" : "qlik-sense, visualization",
+	"license" : "MIT",
+	"repository" : "",
+    "dependencies" : { "qlik-sense" : ">=2.1.x" }
+}
